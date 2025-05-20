@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     public Rigidbody Rigidbody;
-    public float ForwardForce=1000f;
+    public float ForwardForce=500f;
     public float SideForce = 500f;
 
     // Update is called once per frame
